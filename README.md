@@ -9,7 +9,7 @@ pip install pytube
 ```
 Okay, you are good to go!
 
-Download the YouTube-downloader-pyhton.py file and run the terminal in that directory.
+Download the YouTube-downloader-python.py file and run the terminal in that directory.
 
 Type this in your terminal and follow the prompted instructions:
 
