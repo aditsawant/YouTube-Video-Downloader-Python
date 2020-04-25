@@ -14,5 +14,5 @@ Download the YouTube-downloader-pyhton.py file and run the terminal in that dire
 Type this in your terminal and follow the prompted instructions:
 
 ```
-python YouTube-downloader-pyhton.py
+python YouTube-downloader-python.py
 ```
